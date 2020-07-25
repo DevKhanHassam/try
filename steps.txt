@@ -1,0 +1,7 @@
+Steps to create app: 
+1. npx create-react-app bootCamp2020 
+2. npm start then goto browser and type http://localhost:3000 to stop the application press CTRL C 
+3.To make a production build npm run bui
+   yarn build (or) npm run build
+4 .command to deploy build folder with surge: surge ./build
+ 
